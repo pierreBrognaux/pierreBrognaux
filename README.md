@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pierreBrognaux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pierreBrognaux/pierreBrognaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 salut, je m'appelle Pierre 
+- 👀 Je suis un étdudiant de l'ECE Lyon
+- 🌱 J'apprend le language C en cours
+- 💞️ Je cherche a faire des projet en C
+- 📫 vous pouvez me joindre au mail pierre.brognaux@edu.ece.fr
